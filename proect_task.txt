@@ -1,0 +1,23 @@
+give 3 input  and hard core rating 
+or 
+give  input and aslo input rating
+
+
+KNEighb
+manhattan
+
+
+ matrices 
+movie in index and column
+
+coloabarative filtering
+
+start with sample
+
+
+
+
+
+
+stringlet
+
