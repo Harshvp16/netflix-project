@@ -15,9 +15,15 @@ coloabarative filtering
 start with sample
 
 
+#### maybe create some visualisations to check the data distribution 
+#### Filter the data to create a better machine learning program
+#### Decide a Machine learning technique
+#### Test the algorithm
+#### Add ratings in Qualify dataset and compare with probe to check the accuracy
+#### Create a Predictor system which takes 3 inputs from user and provides list of related movies 
+### Create a GUI using Streamlit
 
 
 
-
-stringlet
+streamlit
 
